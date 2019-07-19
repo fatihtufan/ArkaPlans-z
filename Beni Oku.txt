@@ -1,0 +1,3 @@
+Fotograf kaydetmeden önce veriseti klasörünün içine hangi sýnýflar dafotoðraflar çekilecekse onlarýn
+isminde klasörler açýlmalýdýr. Örn 1,2,a ...
+veri seti oluþturulduktan sonra Arka_plansýz.py çalýþtýrýlýr ancak en altta train fonksiyonunu çalýþtýran kod aktif edilmelidir.
